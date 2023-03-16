@@ -2,6 +2,7 @@
 
 [![github]](https://github.com/BingBuLiang/bing-math)  
 
+[uni-app 地址]()
 一个轻量级数学渲染 
 
 ### 特别说明
@@ -102,10 +103,10 @@
 #### 如果需要引用，可以使用以下方式
 ```javascript
 <script>
-	import BingCountup from "@/components/bing-math/bing-math.vue"
+	import BingMath from "@/components/bing-math/bing-math.vue"
 	export default {
 		components: {
-			'bing-countup': BingCountup
+			'bing-math': BingMath
 		}
     }
 </script>
@@ -116,7 +117,7 @@
 
 ## API
 
-### bing-countup @property
+### bing-math @property
 
 | 属性名 | 类型   | 默认值 | 说明            |
 | ------ | ------ | ------ | --------------- |
