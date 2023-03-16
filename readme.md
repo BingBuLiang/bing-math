@@ -2,7 +2,7 @@
 
 [![github]](https://github.com/BingBuLiang/bing-math)  
 
-[uni-app 地址]()
+[uni-app 地址](https://ext.dcloud.net.cn/plugin?id=11248)
 
 一个轻量级数学渲染 
 
