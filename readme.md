@@ -3,6 +3,7 @@
 [![github]](https://github.com/BingBuLiang/bing-math)  
 
 [uni-app 地址]()
+
 一个轻量级数学渲染 
 
 ### 特别说明
